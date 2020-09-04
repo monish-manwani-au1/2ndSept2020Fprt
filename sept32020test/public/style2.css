@@ -1,0 +1,38 @@
+
+form{
+
+  margin-top: 30px;
+}
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+input[type=text], input[type=password], input[type=email] {
+  width: 400px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-content: center;
+  background-color: rgb(247, 234, 234);
+
+}
+ /* Button style setting */
+ #formButton {
+
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 400px;;
+  height: 50px;
+}
+.container-fluid{
+  text-align: center;
+}
+body{
+  background:white;
+}

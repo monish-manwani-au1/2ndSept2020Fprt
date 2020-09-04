@@ -1,0 +1,20 @@
+{
+  "name": "sept32020test",
+  "version": "1.0.0",
+  "description": "front&backendtestappl",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001bapp\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C.js)",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "hbs": "^4.1.1",
+    "mongodb": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "monish-manwani-au1",
+  "license": "ISC"
+}
