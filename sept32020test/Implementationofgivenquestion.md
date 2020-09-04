@@ -10,4 +10,4 @@ Display on homepage of blogpost
 
 Profile page (routing only)
 
-Create Blogpost
+Create Blogpost and store it so that it is shown on homepage
